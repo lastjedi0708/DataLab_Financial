@@ -1,1 +1,10 @@
+# OS Files #
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+# OS
 .DS_Store
+.svn
